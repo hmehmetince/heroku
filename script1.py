@@ -3,7 +3,7 @@ import requests
 
 
 def slacksend(title, message):
-    url = "https://hooks.slack.com/services/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"
+    url = "https://hooks.slack.com/services/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"
     #message = ("A Sample Message")
     #title = (f"New Incoming Message :zap:")
     slack_data = {
